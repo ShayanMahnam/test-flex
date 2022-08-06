@@ -4,3 +4,21 @@
     box-sizing: border-box;
 }
 
+header{
+    background-color: brown;
+    height: 50px;
+    
+}
+
+header ul{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+}
+
+header ul li a{
+    color: #fff;
+    text-decoration: none;
+    
+}
