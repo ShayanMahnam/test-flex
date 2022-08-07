@@ -15,7 +15,10 @@ header ul{
     justify-content: space-around;
     align-items: center;
     list-style: none;
+    height: 50px;
+
 }
+
 
 header ul li a{
     color: #fff;
